@@ -1,9 +1,9 @@
 <?php
 /*------------------------------------------------------------
 
-Template : Slims Meranti Template
-Create Date : March 24, 2012
-Author  : Eddy Subratha (eddy.subratha@gmail.com)
+Template : Iqra Template dimodifikasi dari Slims Meranti 
+Create Date :Dec 20, 2012
+Author  : Eddy Subratha (eddy.subratha@gmail.com), Wildan Maulana (OpenThink Labs)
 
 
 This program is free software; you can redistribute it and/or modify
@@ -103,10 +103,10 @@ $social = array (
  <link href="template/core.style.css" rel="stylesheet" type="text/css" />
  <link href="<?php echo $sysconf['template']['css']; ?>" rel="stylesheet" type="text/css" />
  <!--[if IE]>
- <link type="text/css" rel="stylesheet" media="all" href="template/default/ie.css"/>
+ <link type="text/css" rel="stylesheet" media="all" href="template/iqra/ie.css"/>
  <![endif]-->
  <!--[if IE 6]>
- <link type="text/css" rel="stylesheet" media="all" href="template/default/ie6.css"/>
+ <link type="text/css" rel="stylesheet" media="all" href="template/iqra/ie6.css"/>
  <![endif]-->
  <script type="text/javascript" src="js/jquery.js"></script>
  <script type="text/javascript" src="js/form.js"></script>
@@ -422,10 +422,10 @@ $social = array (
   <div class="footer">
    <div class="container_12">
     <div class="grid_6 lisence">
-     This software and this template are released Under GNU GPL License Version 3
+     <a href="http://www.openthinklabs.com" target="new" title="OpenThink Labs">OpenThink Labs</a>
     </div>
     <div class="grid_5 oss">
-     The Winner in the Category of OSS Indonesia ICT Award 2009
+     <a href="http://www.negeripelangi.com" target="new" title="Negeri Pelangi">Negeri Pelangi</a>
     </div>
    </div>
   </div>
